@@ -6,25 +6,16 @@ We implemented a GUI to select the watermark region of a picture before processi
 
 generative inpainting
 #1. make sure you have installed requested module
-
 >tensorflow 1.x
-
 >pillow
-
 >opencv
-
 >tkinter
 
 2. run GUI.py
-
 >Choose picture
-
 >Circle the position of water mark
-
 >Input picture and mask
-
 >Start processing
-
 >Output processed picture
 
 3. check the processed picture in your saving path
