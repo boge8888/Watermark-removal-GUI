@@ -11,6 +11,7 @@ generative inpainting
 >pillow  
 >opencv  
 >tkinter  
+>neuralgym (run pip install git+https://github.com/JiahuiYu/neuralgym)
 
 2. run GUI.py
 
