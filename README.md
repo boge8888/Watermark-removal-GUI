@@ -21,4 +21,10 @@ generative inpainting
 >Start processing  
 >Output processed picture  
 
-3. check the processed picture in your saving path
+3. check the processed picture in your saving path  
+Choose the photo you want to remove watermark->Circle the position of watermark->Get the result after generating
+
+<img src="https://github.com/boge8888/Watermark-removal-GUI/blob/master/examples/places2/gui1.png" width="33%"/> <img src="https://github.com/boge8888/Watermark-removal-GUI/blob/master/examples/places2/gui2.png" width="33%"/> <img src="https://github.com/boge8888/Watermark-removal-GUI/blob/master/examples/places2/gui3.png" width="33%"/>
+
+Sample results  
+original picture->our trained model->pretrained model
