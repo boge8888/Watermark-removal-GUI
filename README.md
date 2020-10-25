@@ -31,6 +31,8 @@ original picture->our trained model->pretrained model
 
 <img src="https://github.com/boge8888/Watermark-removal-GUI/blob/master/examples/places2/jinmao1.png" width="33%"/> <img src="https://github.com/boge8888/Watermark-removal-GUI/blob/master/examples/places2/jinmao2.png" width="33%"/> <img src="https://github.com/boge8888/Watermark-removal-GUI/blob/master/examples/places2/jinmao3.png" width="33%"/>
 
-To train the model, I offer my dataset at [Google Drive](https://drive.google.com/drive/folders/1ENg8T5Y-yHyPg4g2IIm0NX_-lG1rDgdB?usp=sharing)
+To train the model, I offer my dataset at [Google Drive](https://drive.google.com/drive/folders/1ENg8T5Y-yHyPg4g2IIm0NX_-lG1rDgdB?usp=sharing)  
+Use gen.py to generate your dataset file, make sure it is in the same directory as your dataset folder  
+Modify the inpaint.yml and set the dataset path to your flist path  
 
 
