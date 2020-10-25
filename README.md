@@ -28,3 +28,5 @@ Choose the photo you want to remove watermark->Circle the position of watermark-
 
 Sample results  
 original picture->our trained model->pretrained model
+
+<img src="https://github.com/boge8888/Watermark-removal-GUI/blob/master/examples/places2/jinmao1.png" width="33%"/> <img src="https://github.com/boge8888/Watermark-removal-GUI/blob/master/examples/places2/jinmao2.png" width="33%"/> <img src="https://github.com/boge8888/Watermark-removal-GUI/blob/master/examples/places2/jinmao3.png" width="33%"/>
