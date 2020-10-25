@@ -30,3 +30,6 @@ Sample results
 original picture->our trained model->pretrained model
 
 <img src="https://github.com/boge8888/Watermark-removal-GUI/blob/master/examples/places2/jinmao1.png" width="33%"/> <img src="https://github.com/boge8888/Watermark-removal-GUI/blob/master/examples/places2/jinmao2.png" width="33%"/> <img src="https://github.com/boge8888/Watermark-removal-GUI/blob/master/examples/places2/jinmao3.png" width="33%"/>
+
+To train the model, I offer my dataset at https://drive.google.com/drive/folders/1ENg8T5Y-yHyPg4g2IIm0NX_-lG1rDgdB?usp=sharing
+
