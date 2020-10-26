@@ -34,5 +34,6 @@ original picture->our trained model->pretrained model
 To train the model, I offer my dataset at [Google Drive](https://drive.google.com/drive/folders/1ENg8T5Y-yHyPg4g2IIm0NX_-lG1rDgdB?usp=sharing)  
 Use gen.py to generate your dataset file, make sure it is in the same directory as your dataset folder  
 Modify the inpaint.yml and set the dataset path to your flist path  
+Please put your trained model or the [pretrained model](https://drive.google.com/drive/folders/1y7Irxm3HSHGvp546hZdAZwuNmhLUVcjO) in the model_logs folder to make sure the GUI run correctly
 
 
